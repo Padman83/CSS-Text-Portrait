@@ -1,3 +1,3 @@
 # CSS-Text-Portrait
 
-Written in html and css and Materialize framework.
+Written in html, css and Materialize framework.

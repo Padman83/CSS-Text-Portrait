@@ -5,7 +5,7 @@
 ### 🧰 System Requirements:
 ### 🛠️ Tools:
 
-* Mac , Linux or Windows.
+* Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
 * [Materialize] (https://materializecss.com)
 * [jQuery] (https://https://jquery.com)
